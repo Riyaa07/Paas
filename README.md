@@ -23,7 +23,7 @@ Things you may want to cover:
 
 * ...
 
-Step - 1
+# STEPS
 
 1. Open Github Desktop
     i. Create a new repository 
