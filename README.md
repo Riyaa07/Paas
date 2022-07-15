@@ -1,3 +1,9 @@
+# Submission Links
+
+App link - https://deployment-web.herokuapp.com
+Githib link  - https://github.com/Riyaa07/Paas
+
+Github link - 
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,7 +29,7 @@ Things you may want to cover:
 
 * ...
 
-# STEPS
+# STEPS (Kind of Dev Diary)
 
 1. Open Github Desktop
     * Create a new repository 
@@ -82,6 +88,13 @@ This will give some kinds of error that something went wrong it is beacuse of th
 1020 - Configure it
 1030 - Completed all step of ass 3
 1230 - It took hours to load ubuntu VM desktop 
+
+After running the following commands
+
+* $ sudo apt-get update
+* $ sudo apt-get upgrade -y
+* $ sudo apt-get dist-upgrade -y
+* $ sudo reboot
 
 * I have no clue how to run ruby on it
 
